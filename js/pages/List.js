@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Requirements to Create a Level</h3>
                     <p>
-                        Level must be under 30 seconds long, and it must be made and verified by Libertas memebers.
+                        Level must be over 30 seconds long, and it must be made and verified by Libertas memebers.
                     </p>
                     <p>    
                         Multiple people can work on a level.
